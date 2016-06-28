@@ -1,0 +1,18 @@
+Instructions for Software
+
+- Type a move into the text box with “Enter a Move” next to it located at the top of the window
+   If you need an example for a move look at the examples that are found in the Text box at the east and type those in and press enter
+
+- Simulate Button
+   The Button on the bottom will only function if you have found a move successfully
+    if the button is pressed several time a new amount of dice will be rolled and totaled up for damage
+
+That should be all – if you need a wider range of moves to look for: look at this website
+
+http://pokemontabletop.wikidot.com/moves
+
+
+The Name Category is the Name of the move, which is all you need in order to find the move requested.
+
+This class is runnable from the  move.jar file
+java -jar move.jar

@@ -1,5 +1,4 @@
-package movelibrary;
-import java.applet.Applet;
+package movelibrary; 
 
 import javax.swing.JFrame;
 
